@@ -2,3 +2,7 @@
 [![codecov](https://codecov.io/gh/Lapeno23/CashBack/branch/master/graph/badge.svg)](https://codecov.io/gh/Lapeno23/CashBack)
 
 # CashBack Service
+
+[![codecov](https://codecov.io/gh/Lapeno23/CashBack/branch/master/graph/badge.svg)](https://codecov.io/gh/Lapeno23/CashBack)
+
+# CashBack Service
